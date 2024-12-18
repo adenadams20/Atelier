@@ -1,0 +1,126 @@
+body
+{
+    background: transparent;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+form
+{
+
+    border: solid 1px;
+    display: flex;
+    width: 850px;
+}
+.form1
+{
+    margin-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.form2
+{
+    padding-top: 40px;
+
+    margin-left: 20px;
+}
+input
+{
+    width: 
+}
+
+#PREFERENCE
+{
+    width: 200px;
+    padding: 10px;
+}
+label
+{
+    font-size: 10px;
+}
+#first
+{
+    width: 200px;
+    padding: 10px;
+}
+#first
+{
+    width: 200px;
+    padding: 10px;
+}
+
+#Last
+{
+    width: 200px;
+    padding: 10px;
+}
+#Company
+{
+    width: 200px;
+    padding: 10px;
+}
+
+#Email
+{
+    width: 200px;
+    padding: 10px;
+}
+#num
+{
+    width: 200px;
+    padding: 10px;
+}
+#cheque
+{
+    width: 200px;
+    padding: 10px;
+}
+#DRAVIN
+{
+    width: 200px;
+    padding: 10px;
+}
+#payable
+{
+    width: 200px;
+    padding: 10px;
+}
+#donate
+{
+    border: solid 1px;
+    margin-left: 210px;
+    background-color: green;
+    color: white;
+}
+.donate
+{
+    border: solid 1px green;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-bottom: 10px;
+
+}
+#submit
+{
+    padding: 10px;
+    width: 100px;
+    color: white;
+    background-color: green;
+    margin-right: 3px;
+}
+.submit
+{
+    margin-top: 25px;
+    border: solid 1px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    display: flex;
+    justify-content: end;
+    width: 230px;
+
+
+}
