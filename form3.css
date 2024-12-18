@@ -1,0 +1,85 @@
+body
+{display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+height: 700px;
+background-image: url(..//html/image/pexels-photo-733853.jpeg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+form
+{
+   border: solid 1px black;
+   display: flex;
+   color: white;
+   background-color: black;
+   width: 80%;
+}
+
+select
+{
+   width: 290px;
+   margin-bottom: 10px;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   background-color: transparent;
+   color: white;
+
+}
+button
+{
+   border-radius: 50%;
+   width: 40px;
+   height: 34px;
+   margin-left: 10px;
+}
+#bu6
+{
+   width: 80px;
+   background-color: rgb(255, 206, 101);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+
+.rouge
+{
+   background-color: black;
+   color: beige;
+   width: 30px;
+   border-radius: 100%;
+   
+}
+input
+{
+   width: 90%;
+   border-top: none;
+   background: transparent;
+   border-left: none;
+   border-right: none;
+   border-bottom: solid 1px gray;
+}
+.button
+{
+   width: 100%;
+   display: flex;
+}
+.okk
+{
+   display: flex;
+   flex-direction: column;
+   padding-left: 20px;
+   
+}
+#book
+{
+   border: solid 1px;
+   background-color: rgb(255, 214, 101);
+   height: 50px;
+   width: 100px;
+}
