@@ -16,7 +16,8 @@ form
    display: flex;
    color: white;
    background-color: black;
-   width: 80%;
+   width: 60%;
+   height: 500px;
 }
 
 select
@@ -80,6 +81,15 @@ input
 {
    border: solid 1px;
    background-color: rgb(255, 214, 101);
-   height: 50px;
+   height: 90px;
    width: 100px;
+}
+#nom
+{
+   border-color: chocolate;
+}
+
+@media screen
+{
+
 }
