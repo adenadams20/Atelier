@@ -1,0 +1,100 @@
+body
+
+{
+    padding: 0;
+    background: rgba(255, 255, 255, 0.808);
+    z-index: 1;
+}
+
+.free
+{
+border: solid;
+text-align: center;
+}
+.free p
+{
+    color: red;
+}
+
+.nav
+{
+    border: solid;
+    padding: 25px;
+    display: flex;
+    flex-direction: row;
+align-items: center;
+
+    background: white;
+    z-index: 2;
+}
+.fr
+{border: solid;
+color: red;
+border-radius: 3px;
+height: 22px;
+text-align: center;
+}
+
+#img
+{
+   width: 30px;
+}
+
+
+#imo
+{
+   width:50px;
+   
+   
+}
+
+.icone
+{
+    display: flex;
+    width: 230px;
+    justify-content: space-between;
+    margin-left: 200px;
+}
+
+.SHOP
+{
+    margin-right: 10px;
+}
+
+#prana
+{
+    width: 200px;
+    margin-left: 115px;
+}
+.sop
+{
+    margin-left: 50px;
+}
+
+.sop a
+{
+    text-decoration:none;
+    color: rgb(175, 38, 38);
+}
+
+#cana
+{
+    margin-left: 30px;
+    border-bottom: none;
+    color: rgb(206, 31, 31);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+#new
+{
+    width: 100%;
+    height: 420px;
+}
+.container
+{
+    margin-top: 5px;
+}
+
+    
