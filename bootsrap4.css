@@ -1,0 +1,159 @@
+body
+{
+    margin: 0%;
+    padding: 0;
+    overflow-x: hidden;
+}
+.sokka{
+    background: #008370;
+    border: solid 1px #04806d; ;
+
+}
+.navbar-collapse
+{
+    
+}
+.navbar-nav
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: end; 
+    width: 80%;
+    background-color: #008370;
+}
+#logo
+{
+    height: 30px;
+}
+.ok
+{
+    background-color: 
+    color-mix(in srgb, var(--accent-color) 90%, black 10%);
+    background-color: #008370;
+    height: 50px;
+    width: 100%;
+    
+}
+.ok2
+{
+    height: 510px;
+    background-image: url(hero-img.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #008374;
+    
+}
+.ok3
+{
+    background-color: #008370;
+   
+    border: violet;
+    
+}
+.footer
+{
+    background-color: #008374;
+    margin-top: 100px;
+
+}
+.footer a
+{
+    text-decoration: none;
+    
+}
+.img
+{
+    height: 270px;
+    background-color: #0b8a77;
+    border: solid 1px #059b84 ;
+    width: 270px;
+    margin-left: 15px;
+    border-radius: 15px;
+    
+   
+    
+}
+#tof
+{
+    height: 50px;
+    
+}
+#tof1
+{
+    height: 420px;
+}
+#tof3
+{
+    height: 20px;
+    width: 100px;
+    
+}
+.swipp
+{
+    transition-duration: 0ms; transform: translate3d(-960px, 0px, 0px); transition-delay: 0ms;
+    margin-top: 10px;
+    width: 100%;
+}
+.image
+{
+
+    margin-top: 200px;
+    gap: 10px;
+    
+
+
+    
+    
+}
+.avant
+{
+    margin-top: 150px;
+    gap: 70px;
+}
+.navbar
+{
+    height: 50px;
+}
+.ok4{
+    margin-top: 190px;
+    
+
+}
+.ok5
+{
+    transition-duration: 0ms; transform: translate3d(0px, 0px, 0px); transition-delay: 1s;
+    transition-duration: s;
+}
+.super
+{
+    margin-top: 0px;
+}
+.yo
+{
+    transition-duration: 1ms; transform: translate3d(-200px, 0px, 0px); transition-delay: 0s;
+    
+
+}
+#tof4
+{
+    height: 50px;
+}
+
+.carousel-item
+{
+   
+    width: 500px;
+}
+.ma
+{
+    margin-top: 1800px;
+}
+@media screen and
+(max-width:800px) {
+    .ok2
+    {
+        height: 1500px;
+        
+    }
+    
+}

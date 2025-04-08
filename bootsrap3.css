@@ -1,0 +1,52 @@
+.ok
+{
+    height: 600px;
+    width: 500px;
+}
+
+.premier1
+{
+    height: 150px;
+    width: 300px;
+}
+.premier2
+{
+    height: 150px;
+    width: 300px;
+}
+.premier3
+{
+    height: 150px;
+    width: 300px;
+}
+.footer
+{
+    height: 250px;
+}
+.nice
+{
+    height: 100px;
+}
+.main
+{
+    height: 100px;
+}
+.super{
+    text-align: center;
+}
+@media screen and (max-width: 800px)
+    {
+       .super{
+        display: flex;
+        flex-direction: column;
+           
+        }
+
+        .nice{
+            flex-wrap: nowrap;
+               
+            }
+    
+
+    }
+    
